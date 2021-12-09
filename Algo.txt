@@ -1,2 +1,5 @@
 Step 1: Order the Pizza
 Step 2: Wait for the Delivery
+Step 3: Open the Door
+Step 4: Pay for the Pizza
+Step 5: Tip the Delivery Driver
