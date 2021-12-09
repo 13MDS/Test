@@ -1,2 +1,4 @@
 Step 1: Order the Pizza
 Step 2: Wait for the Deliver
+Step 3: Pay for the Pizza
+Step 4: Pay the Delivery Driver
